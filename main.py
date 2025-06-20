@@ -351,7 +351,7 @@ async def guide_handler(client: Client, message: Message):
       "/add_channel : To add New Channel\n"
       "/remove_channel : To remove all the channels\n"
       "/myplan : To check Your Active Membership\n\n"
-      "Contact Me For Premium : [🅱🅴🅰🆂🆃 👑](tg://user?id=7517045929) "
+      "Contact Me For Premium : [🅱🅴🅰🆂🆃 👑](tg://user?id=2001332759) "
     )
     await message.reply_text(guide_text)
 
