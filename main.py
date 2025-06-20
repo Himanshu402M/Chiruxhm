@@ -54,7 +54,7 @@ import random
 keyboard = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton(text="📞 Contact", url="tg://user?id=7517045929"),
+            InlineKeyboardButton(text="📞 Contact", url="tg://user?id=2001332759"),
             InlineKeyboardButton(text="🔍 Channel", url="https://t.me/skillwithchiru"),
         ],
     ]
