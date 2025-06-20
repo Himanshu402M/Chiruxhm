@@ -13,17 +13,17 @@
     "env": {
         "API_ID": {
             "description": "enter_your_api_id",
-            "value": "26468828",
+            "value": "20246767",
             "required": true
         },
         "API_HASH": {
             "description": "enter_your_api_harsh",
-            "value": "4693513c08d1ac6af15f95b116c29478",
+            "value": "40c77323994b4c8b3dfc38273955ed3b",
             "required": true
         },
         "BOT_TOKEN": {
             "description": "Enter your bot token",
-            "value": "",
+            "value": "7158399025:AAF2nUEURWAu1hkMhst8WLN83nS_cj6VXZg",
             "required": true
         }
     },
